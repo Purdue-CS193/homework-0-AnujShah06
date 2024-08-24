@@ -1,12 +1,15 @@
 # Anuj Shah's First CS193 Homework
 
+# Favorite Things about CS 193:
 - Instructor is funny
 - PSO is optional
 - Meet only once a week
 - Get to learn relevant tools 
 
+Link to public website:
 https://purdue-cs193.github.io/homework-0-AnujShah06/
 
+Template website:
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
