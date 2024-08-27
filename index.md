@@ -7,7 +7,7 @@
 - Get to learn relevant tools 
 
 [Link](
-https://purdue-cs193.github.io/homework-0-AnujShah06/) to public website:
+https://purdue-cs193.github.io/homework-0-AnujShah06/) to public website
 
 Template website:
 ## Welcome to GitHub Pages
